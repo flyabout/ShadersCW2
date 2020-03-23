@@ -1,0 +1,26 @@
+﻿  scenediffuse.cpp
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(182): warning C4305: '+=': truncation from 'double' to 'float'
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(184): warning C4305: '-=': truncation from 'double' to 'float'
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(186): warning C4305: '-=': truncation from 'double' to 'float'
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(188): warning C4305: '+=': truncation from 'double' to 'float'
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(202): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(204): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(206): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\documents\shaders coursework2\lab_lighting\teapotad\teapotad\scenediffuse.cpp(208): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  TeapotAD.vcxproj -> D:\Documents\Shaders coursework2\Lab_Lighting\TeapotAD\x64\Debug\TeapotAD.exe
